@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tshirt-react/static/css/main.cc085b2d.css",
+    "main.js": "/tshirt-react/static/js/main.7f858c68.js",
+    "index.html": "/tshirt-react/index.html",
+    "main.cc085b2d.css.map": "/tshirt-react/static/css/main.cc085b2d.css.map",
+    "main.7f858c68.js.map": "/tshirt-react/static/js/main.7f858c68.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc085b2d.css",
+    "static/js/main.7f858c68.js"
+  ]
+}
