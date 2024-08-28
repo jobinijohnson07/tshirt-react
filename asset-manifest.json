@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/tshirt-react/static/css/main.e10d74a5.css",
-    "main.js": "/tshirt-react/static/js/main.c607d81a.js",
+    "main.css": "/tshirt-react/static/css/main.05ad3414.css",
+    "main.js": "/tshirt-react/static/js/main.1c2f1ee1.js",
     "index.html": "/tshirt-react/index.html",
-    "main.e10d74a5.css.map": "/tshirt-react/static/css/main.e10d74a5.css.map",
-    "main.c607d81a.js.map": "/tshirt-react/static/js/main.c607d81a.js.map"
+    "main.05ad3414.css.map": "/tshirt-react/static/css/main.05ad3414.css.map",
+    "main.1c2f1ee1.js.map": "/tshirt-react/static/js/main.1c2f1ee1.js.map"
   },
   "entrypoints": [
-    "static/css/main.e10d74a5.css",
-    "static/js/main.c607d81a.js"
+    "static/css/main.05ad3414.css",
+    "static/js/main.1c2f1ee1.js"
   ]
 }
